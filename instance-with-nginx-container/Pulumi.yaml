@@ -1,0 +1,6 @@
+name: instance-with-nginx
+runtime:
+  name: python
+  options:
+    virtualenv: venv
+description: A demo project to create a GCP instance and run a Nginx container
