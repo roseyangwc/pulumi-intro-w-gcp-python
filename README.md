@@ -45,8 +45,8 @@
     4. 連結你的帳單帳戶
 
 ## 註冊 Pulumi 帳號和建立 Access Token
-1. 到 [Pulumi 官網]([https://app.pulumi.com/signup](https://app.pulumi.com/signup)) 註冊帳號
+1. 到 [Pulumi 官網](https://app.pulumi.com/signup) 註冊帳號
    > Pulumi 個人使用是免費的(基礎功能)，若為多人以上共同開發或需要進階功能，則須依層級付費。
-2. 登入 [Pulumi 控制台]([https://app.pulumi.com/](https://app.pulumi.com/))
+2. 登入 [Pulumi 控制台](https://app.pulumi.com/)
 3. 點選用戶頭像 > Settings > Access Tokens
 4. 建立一組 Access Token
